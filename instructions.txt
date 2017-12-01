@@ -1,0 +1,22 @@
+#SUBTITUTION CYPHER 
+
+#AUTHOR KINGSLEY OTTO
+
+INSTRUCTIONS 
+
+This program is used to encrypt and hack an encrypted subtitution cypher.
+
+It contain three different standalone program, in which each one will contributes to either encrypt a message through subtitution cypher or hack 
+an encrypted subtitution cypher.
+
+letterFrequency.py is used to find letter frequency in a written piece.
+
+wordmatch.py is used to find probable simillar related words through looking in a word list.
+
+sub.py is used to encrypt a message using subtitution cypher.
+
+I have also inclueded a word file which contain letters frequency graph of letters which is used the most in englist
+                                  
+                                                 (:                 
+
+******************************************** (: enjoy (: *****************************************************
